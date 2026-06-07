@@ -13,4 +13,6 @@
 ​Retention Focus: Implement a proactive outreach program for the "DevTools" industry to identify "at-risk" accounts before they churn.
 
 ![Churn by Industry](Accounts.png)
+
+
 ![Reasins for churn](churn_events.png)
