@@ -11,3 +11,6 @@
 ​Product Development: Conduct a targeted feedback survey for the "DevTools" segment to identify specific feature gaps and prioritize them in the product roadmap.
 ​Support Optimization: Review support ticket resolution times, particularly for users reporting "Support" as their reason for leaving, to improve service efficiency.
 ​Retention Focus: Implement a proactive outreach program for the "DevTools" industry to identify "at-risk" accounts before they churn.
+
+![Churn by Industry](Accounts)
+![Reasins for churn](churn_events)
