@@ -12,5 +12,5 @@
 ​Support Optimization: Review support ticket resolution times, particularly for users reporting "Support" as their reason for leaving, to improve service efficiency.
 ​Retention Focus: Implement a proactive outreach program for the "DevTools" industry to identify "at-risk" accounts before they churn.
 
-![Churn by Industry](Accounts)
-![Reasins for churn](churn_events)
+![Churn by Industry](Accounts.png)
+![Reasins for churn](churn_events.png)
